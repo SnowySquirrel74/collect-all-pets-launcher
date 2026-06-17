@@ -11,18 +11,6 @@ Windows launcher and server switcher for running multiple Roblox accounts in Col
 
 Local account data is not included. The app stores saved accounts, cookies, passwords, server links, window placements, and timer settings in the current Windows user's settings file.
 
-## Privacy
-
-The repository intentionally excludes:
-
-- `website_launcher_settings.json`
-- `maps/`
-- `training/`
-- `eng.traineddata`
-- build scratch files
-
-The packaged exe was checked before upload for the known saved username/password markers.
-
 ## Use The Exe
 
 Download and run:
